@@ -1,0 +1,2 @@
+# Dialogue State D0–D6
+D0 receive short idea; D1 extract explicit/implicit topic and mood; D2 match real EXT catalog; D3 ask one high-impact clarification only when needed; D4 set arrangement, hook, vocal/key/tempo; D5 generate Lyrics and Styles; D6 validate and hand off, await feedback. User says "tự đề xuất" -> no unnecessary questions. "Đổi saxophone" changes only applicable musical fields. No Excel.

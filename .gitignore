@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+*.log
+*.mp3
+*.wav

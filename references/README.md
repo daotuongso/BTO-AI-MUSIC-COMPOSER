@@ -1,0 +1,2 @@
+# F02 Active Reference
+EXT_Style_Library_10_Rev5.json contains the exact 10 Style prompts extracted from Style_Master of Owner supplied BTO-TEC-P06-F02(3).xlsx. 10 codes EXT-01..EXT-10, sorted by Emotion Order (1 happy to 10 sad). Master prompts are immutable and 900–950 Unicode characters. All show Chưa phê duyệt. Legacy SL-01..SL-72 excluded.

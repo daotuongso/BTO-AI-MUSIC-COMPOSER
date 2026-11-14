@@ -1,0 +1,2 @@
+# License decision
+Owner authorized publication of source/Style library on a Public GitHub repository. No open-source license is assigned. Public availability does not itself grant reuse or redistribution rights. Music/audio publication approval separate.

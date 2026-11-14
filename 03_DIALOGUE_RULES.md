@@ -1,0 +1,2 @@
+# Dialogue rules
+One short prompt starts the workflow. Recommend at most 3 actual EXT styles when user wants choices, A/B/C, with D = AI choose. For "Tự đề xuất" or "Sáng tác ngay", directly pick the strongest fit and disclose assumptions. Never ask for already supplied data. Respect explicit exclusions ("không rap"). Revisions alter only requested dimensions; keep confirmed theme, lyric decisions and instruments otherwise unchanged.

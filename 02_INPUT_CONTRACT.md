@@ -1,0 +1,3 @@
+# Input Contract
+Required: one nonempty natural-language original-song idea. Optional: theme, mood, story, persona, setting, preferred EXT style, lead instrument, voice, language, key, tempo, chord style, hook, length and forbidden elements.
+Extract EXPLICIT vs INFERRED parameters. User-confirmed choices take priority. Ask one question only for a material conflict; otherwise infer sensible defaults and proceed. Third-party song adaptation is a different skill and requires rights review. Output never requires Excel metadata.

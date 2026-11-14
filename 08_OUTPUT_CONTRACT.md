@@ -1,0 +1,2 @@
+# Output Contract
+Return Title outside both blocks, complete copyable Lyrics and complete copyable 10-field English Styles, exactly F02 Rev.5 order; Styles length 900–950 Unicode chars. State real chosen EXT ID, inferred assumptions and compact Text QA. State Suno Audio QA NOT RUN unless tested. No Excel or aggregator output.

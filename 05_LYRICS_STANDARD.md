@@ -1,0 +1,2 @@
+# Lyrics Standard
+Create ORIGINAL Vietnamese lyrics unless user specifies another language. Consistent narrator and emotional arc, memorable hook, singable Vietnamese syllables, appropriate bracketed chords [Am], section tags on separate lines [Verse 1], [Chorus], [Bridge], etc. Fully spell out every repeated chorus, avoid "Repeat Chorus" shortcuts. No unsupported claims of harmonic proof. Output complete Lyrics independent of Styles.

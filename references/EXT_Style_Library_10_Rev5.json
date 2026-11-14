@@ -1,0 +1,110 @@
+{
+  "source_file": "BTO-TEC-P06-F02(3).xlsx",
+  "source_version": "BTO-TEC-P06-F02 Rev.5 Release Candidate | Suno Styles Test Library Rev.0",
+  "status": "NOT APPROVED; AUDIO QC PENDING",
+  "count": 10,
+  "fields": [
+    "Mood",
+    "Vocal",
+    "Genre",
+    "Tempo",
+    "Instruments",
+    "Production",
+    "Structure",
+    "Language",
+    "Theme",
+    "Avoid"
+  ],
+  "styles": [
+    {
+      "emotion_order": 1,
+      "style_id": "EXT-07",
+      "genre": "Latin Cha-cha-cha × Vietnamese Dance Pop.",
+      "emotion_level": "Vui nhộn, tán tỉnh",
+      "character_count": 949,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Playful, flirty, sunny, charming; courtship, teasing and chemistry.\nVocal: Warm male tenor-baritone, rhythmic and confident; clear Vietnamese diction, smiling delivery, light syncopation, short melodic phrases, natural breath, chorus harmonies.\nGenre: Latin Cha-cha-cha × Vietnamese Dance Pop.\nTempo: 116 BPM, 4/4; crisp cha-cha-cha syncopation, C major.\nInstruments: Piano montuno, güiro, congas, bongos, claves, cowbell, warm bass, brass stabs, clean guitar and light handclaps.\nProduction: Bright, organic, danceable; punchy Latin percussion, tight bass, clear upfront vocal, stereo brass, no harsh limiting.\nStructure: Percussion intro, bouncy verse, playful pre-chorus, catchy chorus, short brass break, call-and-response bridge, final chorus, clean ending.\nLanguage: Vietnamese.\nTheme: Two hearts flirt on a lively dance floor and find the courage to confess.\nAvoid: Reggaeton dembow, trap hi-hats, heavy EDM drops, cluttered percussion."
+    },
+    {
+      "emotion_order": 2,
+      "style_id": "EXT-10",
+      "genre": "Vietnamese Dance Pop × Melodic EDM.",
+      "emotion_level": "Hưng phấn, giải phóng",
+      "character_count": 950,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Euphoric, wistful, energetic, liberating; heartbreak turning into courage.\nVocal: Expressive male baritone with clear Vietnamese diction; intimate verse, airy pre-chorus, strong melodic chorus, controlled vibrato, strong hook; no shouting.\nGenre: Vietnamese Dance Pop × Melodic EDM.\nTempo: 124 BPM, 4/4; F minor, uplifting major-color chorus.\nInstruments: Bright piano, plucked synth, warm supersaw chords, sidechained bass, four-on-floor kick, claps, crisp hats, risers and pads.\nProduction: Wide, club-ready, vocal-forward; clean low end, controlled sidechain, smooth build, melodic drop, contrast, short vocal reverb.\nStructure: Ambient intro, intimate verse, rising pre-chorus, mighty chorus, melodic drop, second verse, breakdown, final chorus/drop, outro.\nLanguage: Vietnamese.\nTheme: Dancing through a breakup toward freedom and a new beginning.\nAvoid: Harsh distortion, overcompressed master, dubstep growls, muddy drops, buried vocals."
+    },
+    {
+      "emotion_order": 3,
+      "style_id": "EXT-09",
+      "genre": "Vietnamese Pop × Contemporary Hip-Hop.",
+      "emotion_level": "Lạc quan, nghị lực",
+      "character_count": 949,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Reflective, determined, urban, uplifting; resilience, hope and confidence.\nVocal: Male mid-low, warm and direct; melodic pop hooks with precise rhythmic rap verses, clear Vietnamese diction, natural breath, grit, dynamics; lead upfront.\nGenre: Vietnamese Pop × Contemporary Hip-Hop.\nTempo: 94 BPM, 4/4; B minor, relaxed head-nod groove.\nInstruments: Punchy kick, snare, crisp hi-hats, sub bass, electric piano, clean guitar, airy synth pads, subtle strings and vocal chops.\nProduction: Modern, clean, vocal-forward; tight low end, spacious hook, restrained saturation, subtle sidechain, clear rap-melody separation.\nStructure: Piano intro, rap verse, melodic pre-chorus, soaring pop hook, rap verse two, stripped bridge, final layered hook, outro.\nLanguage: Vietnamese.\nTheme: Rising after setbacks without forgetting family, roots or old dreams.\nAvoid: Mumbled lyrics, excessive auto-tune, aggressive drill, muddy sub bass, overcrowded hooks."
+    },
+    {
+      "emotion_order": 4,
+      "style_id": "EXT-05",
+      "genre": "Vietnamese Pop Ballad, Contemporary Ballad.",
+      "emotion_level": "Ấm áp, hy vọng",
+      "character_count": 946,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Warm, reflective, nostalgic, tender, hopeful, emotional.\nVocal: Warm male baritone; intimate, expressive, clear Vietnamese diction, natural phrasing, controlled vibrato, restrained emotion. Solo verses, breathy openings, stronger chest voice in pre-chorus, sustained chorus notes; light double-tracking, subtle low and selective third-harmony in chorus, sparse final-line backing, no choir.\nGenre: Vietnamese Pop Ballad, Contemporary Ballad.\nTempo: 72–76 BPM, slow-medium, steady 4/4.\nInstruments: Piano, acoustic guitar, warm bass, live drums, clean electric guitar, subtle strings, light pads.\nProduction: Polished, warm, organic, vocal-forward.\nStructure: Gentle intro, intimate verses, gradual build, fuller chorus, soft outro.\nLanguage: Vietnamese (clear diction specified).\nTheme: Reflective nostalgia, tenderness, hope (from Mood).\nAvoid: EDM drops, heavy synths, aggressive drums, distortion, excessive melisma, theatrical delivery."
+    },
+    {
+      "emotion_order": 5,
+      "style_id": "EXT-08",
+      "genre": "Latin Rumba Ballad × Vietnamese Romantic Pop.",
+      "emotion_level": "Lãng mạn, nhớ nhung",
+      "character_count": 939,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Romantic, tender, yearning, intimate; affection, distance and a promise.\nVocal: Deep male baritone, velvety and sincere; close-mic verses, clear Vietnamese diction, gentle legato, controlled vibrato, sustained notes, gentle chorus lift.\nGenre: Latin Rumba Ballad × Vietnamese Romantic Pop.\nTempo: 92 BPM, 4/4; flowing rumba sway, G minor.\nInstruments: Nylon-string guitar lead, congas, bongos, claves, shaker, warm bass, soft piano, delicate strings and airy pads.\nProduction: Warm, spacious, organic; guitar and percussion interlock, vocal upfront, soft ambience, light compression, dynamics.\nStructure: Fingerpicked guitar intro, intimate verse, rising pre-chorus, lyrical chorus, guitar answer, second verse, gentle bridge, final chorus, lingering outro.\nLanguage: Vietnamese.\nTheme: Lovers separated by distance hold on to a promise beneath the night sky.\nAvoid: Aggressive drums, trap, EDM drops, busy solos, theatrical belting."
+    },
+    {
+      "emotion_order": 6,
+      "style_id": "EXT-06",
+      "genre": "Argentine Tango × Vietnamese Pop Ballad.",
+      "emotion_level": "Đam mê, day dứt",
+      "character_count": 945,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Passionate, bittersweet, elegant; desire, jealousy, heartbreak and defiant longing.\nVocal: Mature male baritone, warm and resonant; intimate narrative verses, crisp Vietnamese diction, controlled vibrato, bold unshouted chorus, expressive pauses.\nGenre: Argentine Tango × Vietnamese Pop Ballad.\nTempo: 124 BPM, 4/4, marked tango pulse; D minor.\nInstruments: Bandoneon lead, violin, piano, nylon guitar, double bass, strings and light percussion; sharp accents and walking bass.\nProduction: Acoustic, intimate, cinematic; dry rhythmic attacks, warm vocal upfront, short room reverb, clear bandoneon-vocal separation.\nStructure: Bandoneon intro, poised verse, rising pre-chorus, passionate chorus, instrumental tango break, tense bridge, final chorus, dramatic stop.\nLanguage: Vietnamese.\nTheme: Two former lovers dance once more before their final goodbye.\nAvoid: EDM drops, trap drums, cartoonish accordion, excessive ornament, muddy bass."
+    },
+    {
+      "emotion_order": 7,
+      "style_id": "EXT-02",
+      "genre": "C-Ballad x Slow Rock x Ancient Chinese Folk.",
+      "emotion_level": "Hoài niệm, tiếc nuối",
+      "character_count": 902,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Nostalgic, tender, sunlit, quietly aching; pure, unreachable schoolyard love.\nVocal: Deep male bass-baritone, resonant, warm, weathered, dignified; grounded low register, firm chest resonance, clear forward phrasing, steady breath, slow controlled vibrato. Noble restraint in verses; broader, more powerful chorus, never shouted; loyalty, memory, rising collective pride.\nGenre: C-Ballad x Slow Rock x Ancient Chinese Folk.\nTempo: 66–70 BPM, slow 6/8 pacing.\nInstruments: Guqin, guzheng, pipa, erhu, xiao, dizi, yangqin, zhongruan, sheng, bianzhong, muyu, dagu, deep bass; Chinese classical palette.\nProduction: Spacious, tragic, elegant; natural hall reverb, clear upfront vocal.\nStructure: Sparse verses and restrained slow-rock chorus lift.\nLanguage: Not specified.\nTheme: First summer love stays unspoken, a lifelong wound.\nAvoid: EDM, trap, rap cadence, bright teen-pop, shouting, muddy mix."
+    },
+    {
+      "emotion_order": 8,
+      "style_id": "EXT-03",
+      "genre": "Vietnamese Sentimental Bolero × Modern Pop Ballad.",
+      "emotion_level": "Buồn, chia ly",
+      "character_count": 950,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Melancholic, nostalgic, intimate, bittersweet; rural love divided by family, class and impossible marriage.\nVocal: Male mid-low, warm, mature, emotional, clear; natural breath, intimate phrasing, restrained vibrato, subtle bolero ornamentation. Lead upfront, centered, dominant.\nGenre: Vietnamese Sentimental Bolero × Modern Pop Ballad.\nTempo: 72 BPM, 4/4, A minor.\nInstruments: Nylon and acoustic guitars lead; warm bass, soft piano, accordion, strings, brushed drums, light percussion. Guitars pulse; piano and accordion answer; strings rise at emotional peaks.\nProduction: Vocal-forward, controlled compression, light reverb, clear diction; duck instruments beneath vocals.\nStructure: Sparse intro and verses, rising pre-chorus, wide chorus, soft post-chorus, short instrumental break, restrained bridge, stronger final chorus, warm organic outro.\nLanguage: Vietnamese.\nTheme: Love denied by family and social distance.\nAvoid: Not specified."
+    },
+    {
+      "emotion_order": 9,
+      "style_id": "EXT-01",
+      "genre": "Vietnamese Pop Ballad × Melodic Rap with cinematic ambience.",
+      "emotion_level": "Đau khổ, bế tắc",
+      "character_count": 947,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Ethereal, nostalgic, romantic, melancholic, haunting; village heartbreak, class divide, family opposition, rainy road, impossible marriage.\nVocal: Strong emotional male, clear, powerful storytelling; natural breath, airy phrasing, restrained vibrato, smooth melodic rap. Lead upfront, centered, dominant.\nGenre: Vietnamese Pop Ballad × Melodic Rap with cinematic ambience.\nTempo: 78 BPM, 4/4, A minor; chorus lifts toward C major.\nInstruments: Acoustic and nylon guitars, soft piano, warm bass, strings, pads, subtle electronic drums, percussion.\nProduction: Vocal-forward, clear; compression, light reverb, clear diction; duck instruments, keep piano and strings behind singer.\nStructure: Sparse intro/verses, rising pre-chorus, catchy wide chorus; rap over Am-F-C-G, Dm7-Em7-E7 tension; minimal bridge, final cinematic chorus.\nLanguage: Vietnamese.\nTheme: Rural love blocked by family and class, ending in separation.\nAvoid: Not specified."
+    },
+    {
+      "emotion_order": 10,
+      "style_id": "EXT-04",
+      "genre": "Vietnamese Ballad 6/8 x Chinese Folk.",
+      "emotion_level": "Bi thương, tuyệt vọng",
+      "character_count": 941,
+      "approval_status": "Chưa phê duyệt",
+      "full_suno_prompt": "Mood: Heartbroken, nostalgic; reunion ten years too late, lost love, silent regret.\nVocal: Deep male raspy aged baritone, warm, sorrowful; story-like restraint, long sob-like vibrato, subtle cracks. Intimate low verses, chest resonance, audible breaths, delayed end vibrato, natural imperfections; never theatrical or shouted. Choruses rise with wounded dignity.\nGenre: Vietnamese Ballad 6/8 x Chinese Folk.\nTempo: 61 BPM, D minor, 6/8.\nInstruments: Lead tenor saxophone, warm, breathy, aching; long sustains, slow bends, soft falls, restrained vibrato. Support: piano, guzheng, pipa, dizi, mournful erhu, soft cello.\nProduction: Spacious, dark, cinematic; clear separation between voice and sax, soft reverb.\nStructure: Lonely sax intro, intimate verses, wider choruses, suspended bridge, sax-led final climax, fading outro.\nLanguage: Vietnamese.\nTheme: Ten-year-late reunion and irretrievable love.\nAvoid: Theatrical delivery and shouting."
+    }
+  ]
+}
